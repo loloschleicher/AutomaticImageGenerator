@@ -1,0 +1,26 @@
+margen inferior img objetivos achicar 
+ampliar margen superior img requisitos
+footer centrado en una sola linea
+fuentes como la de firma
+img round para elegir diseños
+margin left a todo el contenido
+titulo lato black 100puntos
+pt sanz narrow regular 32puntos
+pt sanz narrow regular 27puntos
+titulo gerador para el formulario y titulo vista previa PARA LA VISTA PREVIA
+Base de datos
+
+
+
+                                                <div class="form-row" >
+                                                    <div style="width: 50%; text-align: center; margin-left: 20%">
+                                                        <select style="height: 33px; width: 63%; margin-left: 25%;border-radius: 36px; color:#295E94; border: #CCC" name="typeDesign" onchange="changeDesign(typeDesign)">
+                                                            <option value="design1" selected >Diseñio 1 </option> 
+                                                            <option value="design2" >Diseño 2</option>
+                                                            <option value="design3">Diseño 3</option>
+                                                            <option value="design4" >Diseño 4</option>
+                                                            <option value="design5">Diseño 5</option>
+                                                        </select>
+                                                      
+                                                    </div>
+                                                </div> 

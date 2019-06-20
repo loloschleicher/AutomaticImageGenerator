@@ -1,0 +1,48 @@
+
+/*
+p{ 
+    font-family: "Walkway";
+   
+}
+
+h1{
+    font-family: "Walkway";
+}*/
+
+input {
+	border-radius: 35px;
+}
+
+body{
+    background-color: #F1F1F1;
+}
+
+input{
+    border-radius: 36px !important;
+    color: #295E94;
+    border: #CCC !important;
+    /*font-family: 'Open Sans', Trebuchet MS, Arial, Helvetica, sans-serif, Verdana, Arial, sans-serif !important;*/
+    font-size: 16px;
+}
+
+select{
+    border-radius: 20px !important;
+}
+
+.gradientImg{
+    
+    -webkit-transition:-webkit-transform 0.2s ease-out;
+    -moz-transition:-moz-transform 0.2s ease-out;
+    -o-transition:-o-transform 0.2s ease-out;
+    -ms-transition:-ms-transform 0.2s ease-out;
+    transition:transform 0.2s ease-out; 
+}
+
+.gradientImg:hover {
+    -moz-transform: scale(1.4);
+-webkit-transform: scale(1.4);
+-o-transform: scale(1.4);
+-ms-transform: scale(1.4);
+transform: scale(1.4)
+}
+
